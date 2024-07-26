@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [my Portfolio](https://www.linkedin.com/in/abdelaziz-maazouz/)
 
-- 💬 Ask me about **Data Science, Data Analysis, Data Visualization, Machine learning, Deep learning**
+- 💬 Ask me about **[Data Science](https://courses.cognitiveclass.ai/certificates/e1b3a94b6e1d491eaa94cf090db63b69), Data Analysis, Data Visualization, Machine learning, Deep learning**
 
 - 📫 How to reach me **abdelaziz.maazouz@usmba.ac.ma**
 
